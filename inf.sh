@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Script to get information about koremori.tech
+# Script to get information about koremori.com
 
-DOMAIN="koremori.tech"
+DOMAIN="koremori.com"
 
 echo "Gathering information for $DOMAIN..."
 echo
