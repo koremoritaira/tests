@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script to get information about koremori.com
+# Script to get information about koremori.tech
 
 DOMAIN="koremori.tech"
 
